@@ -1,0 +1,9 @@
+Outcome: 1 = primed outcome; 0 = non primed outcome
+Affect Group: 1 = negative affect group; 2 = positive affect group
+Ethnicity: 1 = Black; 2 = Coloured; 3 = Indian; 4 = White
+Language: 1 = L1; 2 = L2
+Gender: 1 = Female; 2 Male
+RS_scr = Reading Span Score
+P_affect = Aggregated PANAS positive affect score
+N_affect = Aggregated PANAS negative affect score
+Block = WSCT Block
